@@ -12,7 +12,7 @@ public class EchoBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "1743209681:AAH96J8lHy0qy5UyIm0ACBnGYC8aAAUR4ko";
+        return "";
     }
 
     @Override
